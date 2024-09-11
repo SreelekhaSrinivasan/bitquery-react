@@ -1,0 +1,17 @@
+/* Basic table styling */
+table {
+  width: 100%;
+  border-collapse: collapse; /* Ensures borders between cells are merged */
+}
+
+thead, td {
+  border: 1px solid #ddd; /* Adds border around cells */
+  padding: 8px; /* Adds padding inside cells */
+  text-align: left; /* Aligns text to the left */
+}
+
+/* Optional: Style table headers */
+thead {
+  background-color: #f4f4f4; /* Light grey background for headers */
+  font-weight: bold; /* Makes header text bold */
+}
