@@ -32,7 +32,7 @@ function Trondata() {
             url: 'https://streaming.bitquery.io/eap',
             headers: {
             'Content-Type': 'application/json',
-            'Authorization': "Bearer ory_at_6jdb37d-BpnmhaJIPxW0f0iR6xRNzxZhdNWIcajq7Q8.N1RSoyojS3rcCzNgrrfvlig4yJdDdq0FO2tnU5cV4yA",
+            'Authorization': "Bearer ory_**Your OAuth Token here**",
             },
             data: data
         };
